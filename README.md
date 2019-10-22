@@ -1,2 +1,2 @@
-# Questões Programação Avanasda
+# Questões Programação Avançada
 Fernando Felipe e Rafael Vinicius
